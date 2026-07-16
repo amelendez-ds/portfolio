@@ -1,5 +1,5 @@
 title: Álvaro Meléndez
 logo: /assets/profile_photo.jpeg
 description: Welcome to my Machine Learning & AI portfolio! 👨🏽‍💻
-show_downloads: false
+show_downloads: true
 theme: jekyll-theme-minimal
