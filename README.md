@@ -24,3 +24,8 @@ Hi there, welcome to my technical portfolio!
 ### Personal Projects
 - med-tracker: Software Engineering Foundations Project
 - TBA
+
+### Certifications
+- **Microsoft Certified: Azure Fundamentals** (2026)
+- **PCEP: Certified Entry-Level Python Programmer** (PCEP-30-02) (2026)
+- **Associate AI Engineer for Developers** @DataCamp (2026)
