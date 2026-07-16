@@ -1,23 +1,26 @@
 # Data Scientist
 
+Hi there, welcome to my technical portfolio!
+
 ### Education
 - **MSc. Cognitive Sciences & AI** @ *Tilburg University* (Tilburg, Netherlands 🇳🇱)
 - **BSc. Psychology** @ *Universidad de Sevilla* (Sevilla, Spain 🇪🇸)
-- **BA. Philosophy** @ *Universidad Autónoma de Madrid* (Madrid, Spain 🇪🇸) & *University of Warwick* (Coventry, England 🏴󠁧󠁢󠁥󠁮󠁧󠁿)
+- **BA. Philosophy** @ *Universidad Autónoma de Madrid* (Madrid, Spain 🇪🇸) & *University of Warwick* (Coventry, UK 🇬🇧)
 
 ### Career
-*2022-Today*
+*2022-Present*
 
-Data Scientist @ ABN AMRO Bank N.V.
-- Detecting Financial Crime: Transaction Monitoring with Machine Learning
+**Data Scientist** @ Detecting Financial Crime | ABN AMRO Bank N.V.
+- Transaction Monitoring with Machine Learning
 - Model Fairness Expert
 - AI Ethics & Responsible AI Advisor
 
 *2020-2022*
 
-Data Scientist Trainee @ ABN AMRO Bank N.V.
+**Data Scientist Trainee** @ ABN AMRO Bank N.V.
 - Data Talent Programme
+- Machine Learning & AI for Business
 
 ### Personal Projects
 - med-tracker: Software Engineering Foundations Project
-- Fairness ML: Fairness Library for Production Machine Learning
+- TBA
