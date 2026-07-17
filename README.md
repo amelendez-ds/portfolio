@@ -3,7 +3,7 @@
 Hi there, welcome to my technical portfolio!
 
 ### Education
-- **MSc. Cognitive Sciences & AI** @ *Tilburg University* (Tilburg, Netherlands 🇳🇱)
+- **MSc. Cognitive Science & AI** @ *Tilburg University* (Tilburg, Netherlands 🇳🇱)
 - **BSc. Psychology** @ *Universidad de Sevilla* (Sevilla, Spain 🇪🇸)
 - **BA. Philosophy** @ *Universidad Autónoma de Madrid* (Madrid, Spain 🇪🇸) & *University of Warwick* (Coventry, UK 🇬🇧)
 
